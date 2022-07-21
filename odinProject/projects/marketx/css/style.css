@@ -30,6 +30,7 @@ img{
 }
 
 .item{
-    margin: auto;
+    margin: 10px;
 text-align: center;
+border: 2px solid darkslateblue;
 }
